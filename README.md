@@ -12,7 +12,7 @@
 * Proficient in automation testing with Cypress
 * Low experience with Seleniun
 * Knowledge in agile methodologies like scrum 
-* Knowleadhe in Jira 
+* Knowledge in Jira 
 
 ## Working Experience
 
