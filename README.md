@@ -1,16 +1,39 @@
-### Hi there 👋
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
 
-<!--
-**alatorre-sebastian/alatorre-sebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span style="float:right;padding:6px"> 
+  alatorre.sebastian@uabc.edu.mx <br> Nationality: Mexican
+</span>
 
-Here are some ideas to get you started:
+# SDET  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Summary
+
+* QA manual tester experience using Mantis
+* Proficient in automation testing with Cypress
+* Low experience with Seleniun
+* Knowledge in agile methodologies like scrum 
+* Knowleadhe in Jira 
+
+## Working Experience
+
+#### Internship in UABC, Software Development Department (QA manual testing and automated testing with Selenium in JAVA , 2023/02 - present) 
+
+* Acceptance testing.
+* Bug tracking.
+* Development of automated test scripts.
+* Test case design.
+* Execution of automated tests.
+
+
+## Projects: 
+
+* [Portfolio](https://github.com/casualwriter/powerpage) - a example of my skills with cypress
+
+## Education
+
+* Universidad Autonoma de Baja California, bachelor of computer science (2020 - Actual)
+
+
+## Misc. Information
+
+* Languages: English (good), Spanish (native)
