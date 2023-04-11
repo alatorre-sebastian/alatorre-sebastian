@@ -5,8 +5,14 @@
 <br>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alatorre-sebastian&repo=Portafolio_QA_TESTING)](https://github.com/alatorre-sebastian/Portafolio_QA_TESTING)
+ 
+<!--
 <li>🔭 I’m currently working on <a href="https://github.com/alatorre-sebastian/Portafolio_QA_TESTING">My Portfolio</a>.</li>
+-->
+<li>🔭 I’m currently working on My Portfolio:</li>
+ 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alatorre-sebastian&repo=Portafolio_QA_TESTING)](https://github.com/alatorre-sebastian/Portafolio_QA_TESTING)
+ 
 <li>🧐 Learning about<strong> CYPRESS</strong>,<strong> PLAYWRIGHT</strong>, <strong>SELENIUM</strong></li>
 <li>💬 Ping me about <strong>QA TESTING, CYPRESS and TEST AUTOMATION stuff</strong>.</li>
 </ul>
@@ -23,6 +29,8 @@
 </p>
 
 <hr>
-[![Gmail Badge](https://img.shields.io/badge/-ing.miller.vega@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:ing.miller.vega@gmail.com)
+<h2>📌 Contact me! </h2>
+
+[![Gmail Badge](https://img.shields.io/badge/-alatorre.sebastian@uabc.edu.mx-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alatorre.sebastian@uabc.edu.mx)](mailto:alatorre.sebastian@uabc.edu.mx)
 [![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minoveaz/)](https://www.linkedin.com/in/minoveaz/)
 <hr>
