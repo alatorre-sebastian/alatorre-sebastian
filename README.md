@@ -5,6 +5,7 @@
 <br>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alatorre-sebastian&repo=Portafolio_QA_TESTING)](https://github.com/alatorre-sebastian/Portafolio_QA_TESTING)
 <li>🔭 I’m currently working on <a href="https://github.com/alatorre-sebastian/Portafolio_QA_TESTING">My Portfolio</a>.</li>
 <li>🧐 Learning about<strong> CYPRESS</strong>,<strong> PLAYWRIGHT</strong>, <strong>SELENIUM</strong></li>
 <li>💬 Ping me about <strong>QA TESTING, CYPRESS and TEST AUTOMATION stuff</strong>.</li>
@@ -20,3 +21,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenmium" width="25" height="25" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="25" height="25" />
 </p>
+
+<hr>
+[![Gmail Badge](https://img.shields.io/badge/-ing.miller.vega@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:ing.miller.vega@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minoveaz/)](https://www.linkedin.com/in/minoveaz/)
+<hr>
