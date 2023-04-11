@@ -1,5 +1,6 @@
 <h2>Hey 👋, I'm Sebastian</a></h2>
 <p>I'm currently a Internship SDET at <strong>UABC, Software Development Department</a></strong> based in 🌊🌊 Ensenada, Baja California. I am working on some side projects, learning a couple new dishes.</p>
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif"/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">My Portfolio</a>.</li>
