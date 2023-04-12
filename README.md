@@ -46,7 +46,7 @@
 </p>
 
 <hr>
-<h2>📌 Find me! </h2>
+<h2>📌 Find Me! </h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-alatorre.sebastian@uabc.edu.mx-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alatorre.sebastian@uabc.edu.mx)](mailto:alatorre.sebastian@uabc.edu.mx)
 [![Linkedin Badge](https://img.shields.io/badge/-sebastian.alatorre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://mx.linkedin.com/in/sebastian-alatorre-lopez-ba48b4206)](https://mx.linkedin.com/in/sebastian-alatorre-lopez-ba48b4206)
