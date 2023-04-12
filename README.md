@@ -1,5 +1,5 @@
 <h2>Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sebastian</a></h2>
-<p>I'm currently a Internship SDET at <strong>UABC, Software Development Department</a></strong> based in <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/waterwave.gif" width="15px">Ensenada, Baja California.<img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/waterwave.gif" width="15px"> I am working on some side projects, learning a couple new dishes.</p>
+<p>I'm currently a Internship SDET at <strong>UABC, Software Development Department</a></strong> based in <img src="https://thumbs.gfycat.com/DependableCourteousBlesbok.webp" width="15px">Ensenada, Baja California.<img src="https://thumbs.gfycat.com/DependableCourteousBlesbok.webp" width="15px"> I am working on some side projects, learning a couple new dishes.</p>
 <br>
 <div align="center">
 <img alt="Coder GIF" height=300 width=450 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
