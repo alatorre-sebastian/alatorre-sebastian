@@ -1,8 +1,10 @@
 <h2>Hey 👋, I'm Sebastian</a></h2>
 <p>I'm currently a Internship SDET at <strong>UABC, Software Development Department</a></strong> based in 🌊🌊 Ensenada, Baja California. I am working on some side projects, learning a couple new dishes.</p>
 <br>
+<div align="center">
 <img alt="Coder GIF" height=300 width=450 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 <br>
+</div>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
  
@@ -44,7 +46,7 @@
 </p>
 
 <hr>
-<h2>📌 Contact me! </h2>
+<h2>📌 Find me! </h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-alatorre.sebastian@uabc.edu.mx-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alatorre.sebastian@uabc.edu.mx)](mailto:alatorre.sebastian@uabc.edu.mx)
 [![Linkedin Badge](https://img.shields.io/badge/-sebastian.alatorre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://mx.linkedin.com/in/sebastian-alatorre-lopez-ba48b4206)](https://mx.linkedin.com/in/sebastian-alatorre-lopez-ba48b4206)
