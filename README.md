@@ -1,4 +1,4 @@
-<h2>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sebastian</a></h2>
+<h2>Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sebastian</a></h2>
 <p>I'm currently a Internship SDET at <strong>UABC, Software Development Department</a></strong> based in 🌊🌊 Ensenada, Baja California. I am working on some side projects, learning a couple new dishes.</p>
 <br>
 <div align="center">
