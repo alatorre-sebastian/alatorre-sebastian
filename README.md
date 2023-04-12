@@ -5,7 +5,7 @@
 <img alt="Coder GIF" height=300 width=450 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 <br>
 </div>
-<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDIxYjcxNDdiYTA2YWNjYjZiNzZhNjNjYTMwZDc0MDhmZGQzY2MyNCZjdD1z/mBvlxe68T9eP1Umuk7/giphy.gif" width="25px"> A Few Quick Facts</h2>
+<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDIxYjcxNDdiYTA2YWNjYjZiNzZhNjNjYTMwZDc0MDhmZGQzY2MyNCZjdD1z/mBvlxe68T9eP1Umuk7/giphy.gif" width="35px"> A Few Quick Facts</h2>
 <ul>
  
 <!--
